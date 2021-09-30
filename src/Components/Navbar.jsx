@@ -5,7 +5,7 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg navbar-dark" style={{ backgroundColor: '#F74700', display: "flex" }}>
         <div className="container-fluid">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand" href="code-input">
             Code Input Hacktober Fest 2021
           </a>
           <button

@@ -1,4 +1,3 @@
-
 import './App.css';
 import Navbar from './Components/Navbar';
 import Car from './Components/Car';
@@ -20,12 +19,10 @@ function App() {
                         <h5 class="card-title" > What is Hacktober Fest ? </h5>
                         <p class="card-text"> In this event, we are going to contribute to open - source software via GitHub or GitLab as per personal preference.Please make sure that you have registered your GitHub or GitLab account on the Hacktoberfest website.We highly recommend using GitHub
                             for the registration. </p>
-                        <a href="https://www.github.com"
-                            target="_blank"
-                            class="btn btn-dark" > Make Github Profile Now  </a> &nbsp;
+                        <a href="https://github.com/"
+                            class="btn btn-dark"> Make Github Profile Now  </a> &nbsp;
                         <a href="https://hacktoberfest.digitalocean.com/"
-                            target="_blank"
-                            class="btn btn-success" > Register at HacktoberFest </a>
+                            class="btn btn-success"> Register at HacktoberFest </a>
                     </div>
                 </div>
                 <div class="card text-center my-3">
@@ -48,8 +45,7 @@ function App() {
                             for the first time.We will show you how to make pull request and other stuff.</p>
                         <p class="card-text" > After learning those, you are on your own.The first 50 % of the participants those will successfully complete the whole procedure will be the winner and we will accept their pull request and they will have the chance to get T - shirt and Stickers.</p>
                         <a href="https://forms.gle/MPSmR6K28uNNv4bf8"
-                            target="_blank"
-                            class="btn btn-warning" > Fill the Form </a>
+                            class="btn btn-warning"> Fill the Form </a>
                     </div>
                 </div>
 
