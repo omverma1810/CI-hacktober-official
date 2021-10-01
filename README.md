@@ -74,3 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # codeinput-hacto
 # codeInput-hacto
 # codeInput-hacto
+# CI-hacto
